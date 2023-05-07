@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm a Data Scientist and Software Engineer who loves playing with data and creating software. <br><br> 
 
+<img align = "center" width = "500px" height = "300px" src="https://media.giphy.com/media/zyclIRxMwlY40/giphy.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsangoheer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ahsangoheer) 
