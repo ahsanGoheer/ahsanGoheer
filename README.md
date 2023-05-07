@@ -20,7 +20,7 @@ I'm a Data Scientist and Software Engineer who loves playing with data and creat
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=ahsangoheer)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
